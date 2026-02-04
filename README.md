@@ -120,5 +120,4 @@ Supports proactive decision-making.
 ✅ Live deployment
 
 
-
-![alt text](image.png)
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/f7c4f8c6-c898-4445-a1eb-55b29e610e09" />
